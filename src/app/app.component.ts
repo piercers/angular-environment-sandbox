@@ -7,5 +7,5 @@ import { environment } from 'src/environments/environment';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = `my-app (${environment.name})`;
+  title = `my-app promotion (${environment.name})`;
 }
